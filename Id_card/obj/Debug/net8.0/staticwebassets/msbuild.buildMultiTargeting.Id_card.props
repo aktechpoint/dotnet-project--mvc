@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Id_card.props" />
+</Project>
